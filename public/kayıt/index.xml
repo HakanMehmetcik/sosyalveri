@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kayıts | Sosyal Bilimciler İçin R ile Veri Bilimi ve Veri Okur Yazarlığı Eğitimi</title>
+    <link>https://sosyalveri.netlify.app/kay%C4%B1t/</link>
+      <atom:link href="https://sosyalveri.netlify.app/kay%C4%B1t/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kayıts</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 26 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sosyalveri.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Kayıts</title>
+      <link>https://sosyalveri.netlify.app/kay%C4%B1t/</link>
+    </image>
+    
+    <item>
+      <title>kayıt</title>
+      <link>https://sosyalveri.netlify.app/kay%C4%B1t/kayit/</link>
+      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://sosyalveri.netlify.app/kay%C4%B1t/kayit/</guid>
+      <description>&lt;h3 id=&#34;kayıt&#34;&gt;Kayıt&lt;/h3&gt;
+&lt;p&gt;Ekli linkteki form Sosyal Bilimciler İçin R ile Veri Bilimi ve Veri Okur Yazarlığı eğitimine katılmak isteyen öğrencilerin tespiti amacıyla düzenlenmiştir. Cevaplarınız ile toplanan veriler, katılımcı tespiti harici herhangi bir amaçla kullanılmayacak, işlenmeyecek ve eğitime katkı sunan öğretim üyeleri dışında üçüncü şahıslarla herhangi bir şekilde paylaşılmayacaktır.&lt;/p&gt;
+&lt;p&gt;🔗 &lt;a href=&#34;https://forms.gle/KgBjaysQxw51vHdC9&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kayıt olmak için&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

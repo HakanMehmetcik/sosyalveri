@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sosyal Bilimciler İçin R ile Veri Bilimi ve Veri Okur Yazarlığı Eğitimi</title>
+    <link>https://sosyalveri.netlify.app/</link>
+      <atom:link href="https://sosyalveri.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sosyal Bilimciler İçin R ile Veri Bilimi ve Veri Okur Yazarlığı Eğitimi</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 26 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sosyalveri.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Sosyal Bilimciler İçin R ile Veri Bilimi ve Veri Okur Yazarlığı Eğitimi</title>
+      <link>https://sosyalveri.netlify.app/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://sosyalveri.netlify.app/kayit/</link>
+      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://sosyalveri.netlify.app/kayit/</guid>
+      <description>&lt;h3 id=&#34;kayıt&#34;&gt;Kayıt&lt;/h3&gt;
+&lt;p&gt;Ekli linkteki form Sosyal Bilimciler İçin R ile Veri Bilimi ve Veri Okur Yazarlığı eğitimine katılmak isteyen öğrencilerin tespiti amacıyla düzenlenmiştir. Cevaplarınız ile toplanan veriler, katılımcı tespiti harici herhangi bir amaçla kullanılmayacak, işlenmeyecek ve eğitime katkı sunan öğretim üyeleri dışında üçüncü şahıslarla herhangi bir şekilde paylaşılmayacaktır.&lt;/p&gt;
+&lt;p&gt;🔗 &lt;a href=&#34;https://forms.gle/KgBjaysQxw51vHdC9&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kayıt olmak için&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://sosyalveri.netlify.app/kurullar/</link>
+      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://sosyalveri.netlify.app/kurullar/</guid>
+      <description>&lt;h1 id=&#34;etkinlik-düzenleme-kurulu&#34;&gt;Etkinlik Düzenleme Kurulu&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;&lt;p&gt;&lt;strong&gt;İsim-soyisim&lt;/strong&gt;&lt;/p&gt;&lt;/th&gt;
+&lt;th&gt;&lt;p&gt;&lt;strong&gt;Afiliasyon&lt;/strong&gt;&lt;/p&gt;&lt;/th&gt;
+&lt;th&gt;&lt;p&gt;&lt;strong&gt;Görevi&lt;/strong&gt;&lt;/p&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;&lt;p&gt;&lt;strong&gt;Prof. Dr. Nail Yılmaz&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;&lt;strong&gt;Marmara Üniversitesi, Siyasal Bilgiler Fakültesi Dekanı&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;&lt;strong&gt;Düzenleme Kurulu Başkanı&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;&lt;p&gt;&lt;br /&gt;
+&lt;strong&gt;Prof. Dr. Emel Parlar Dal&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;&lt;strong&gt;Marmara Üniversitesi, Siyasal Bilgiler Fakültesi, Uluslararası İlişkiler Bölümü&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;&lt;strong&gt;Düzenleme Kurulu Üyesi, Danışman&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;&lt;p&gt;&lt;strong&gt;Doç. Dr. Hakan Mehmetcik&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;&lt;strong&gt;Marmara Üniversitesi, Siyasal Bilgiler Fakültesi, Uluslararası İlişkiler Bölümü&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;&lt;strong&gt;Yürütücü, Düzenleme Kurulu Üyesi, Eğitmen&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;&lt;p&gt;&lt;strong&gt;Doç. Dr. Murat Can Ganiz&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;&lt;strong&gt;Marmara Üniversitesi, Mühendislik Fakültesi, Bilgisayar Mühendisliği&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;&lt;strong&gt;Düzenleme Kurulu Üyesi, Danışman&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;&lt;p&gt;&lt;strong&gt;Doç. Dr. Abdullah Tirgil&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;&lt;strong&gt;Ankara Yıldırım Beyazıt Üniversitesi, Siyasal Bilimler Fakültesi, Maliye&lt;/strong&gt; &lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;&lt;strong&gt;Düzenleme Kurulu Üyesi&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;&lt;p&gt;&lt;strong&gt;Doç. Dr. Ali Arı&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;&lt;strong&gt;Marmara Üniversitesi, Siyasal Bilgiler Fakültesi, Kamu Yönetimi Bölümü&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;&lt;strong&gt;Düzenleme Kurulu Üyesi, Danışman&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;&lt;p&gt;&lt;strong&gt;Doç. Dr. Raif Cergibozan&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;&lt;strong&gt;Kırklareli Üniversitesi, İİBF, İktisat Bölümü&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;&lt;strong&gt;Düzenleme Kurulu Üyesi&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;&lt;p&gt;&lt;strong&gt;Dr. Ögr. Üyesi Ferit Belder&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;&lt;strong&gt;Marmara Üniversitesi, Siyasal Bilgiler Fakültesi, Uluslararası İlişkiler Bölümü&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;&lt;strong&gt;Düzenleme Kurulu Üyesi&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;&lt;p&gt;&lt;strong&gt;Dr. Ögr. Üyesi İsmail Erkam Sula&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;&lt;strong&gt;Ankara Yıldırım Beyazıt Üniversitesi&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;&lt;strong&gt;Düzenleme Kurulu Üyesi, Eğitmen&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;&lt;p&gt;&lt;strong&gt;Ögr. Gör. Dr. Hasan Hakses&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;&lt;strong&gt;Selçuk Üniversitesi, Sosyal Bilimler MYO&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;&lt;strong&gt;Düzenleme Kurulu Üyesi, Eğitmen&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h1 id=&#34;etkinlik-eğitmenleri&#34;&gt;Etkinlik Eğitmenleri&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;strong&gt;İsim-soyisim&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;Afiliasyon&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;Görevi&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Doç. Dr. Hakan Mehmetcik&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Marmara Üniversitesi, Siyasal Bilgiler Fakültesi, Uluslararası İlişkiler Bölümü&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Yürütücü, Düzenleme Kurulu Üyesi, Eğitmen&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Dr. Ögr. Üyesi İsmail Erkam Sula&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Ankara Yıldırım Beyazıt Üniversitesi&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Düzenleme Kurulu Üyesi, Eğitmen&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Ögr. Gör. Dr. Hasan Hakses&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Selçuk Üniversitesi, Sosyal Bilimler MYO&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Düzenleme Kurulu Üyesi, Eğitmen&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Sercan Pekel&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Medeniyet Üniversitesi, Siyasal Bilgiler Fakültesi, Uluslararası İlişkiler Bölümü&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Eğitmen&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Melih Kölük&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Marmara Üniversitesi, Siyasal Bilgiler Fakültesi, Siyaset Bilimi ve Uluslararası İlişkiler Bölümü&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Eğitmen&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h1 id=&#34;etkinlik-eğitmen-yardımcıları-ve-sekreteryası&#34;&gt;Etkinlik Eğitmen Yardımcıları ve Sekreteryası&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;&lt;p&gt;&lt;strong&gt;&lt;br /&gt;
+İsim-soyisim&lt;/strong&gt;&lt;/p&gt;&lt;/th&gt;
+&lt;th&gt;&lt;p&gt;&lt;strong&gt;Afiliasyon&lt;/strong&gt;&lt;/p&gt;&lt;/th&gt;
+&lt;th&gt;&lt;p&gt;&lt;strong&gt;Görevi&lt;/strong&gt;&lt;/p&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;&lt;p&gt;&lt;strong&gt;Gökhan Katıtaş&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;&lt;strong&gt;Marmara Üniversitesi, Siyasal Bilgiler Fakültesi, Uluslararası İlişkiler Bölümü Ar. Gör.&lt;/strong&gt; &lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;&lt;strong&gt;Sekreterya&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;&lt;p&gt;&lt;strong&gt;Bozkurt Toral&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;&lt;strong&gt;İstanbul Kültür İİBF, Uluslararası İlişkiler Bölümü Ar. Gör.&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;&lt;strong&gt;Eğitmen Yardımcısı&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;&lt;p&gt;&lt;strong&gt;Galip Yüksel&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;&lt;strong&gt;İstanbul Üniversitesi, İktisat Fakültesi, Uluslararası İlişkiler Bölümü Dr. Ögrencisi&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;&lt;strong&gt;Eğitmen Yardımcısı&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ders İzlencesi</title>
+      <link>https://sosyalveri.netlify.app/ders-izlencesi/</link>
+      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://sosyalveri.netlify.app/ders-izlencesi/</guid>
+      <description>&lt;p&gt;Sosyal Bilimciler İçin R ile Veri Bilimi ve Veri Okur yazarlığı Eğitimi ders izlencesi&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sosyal Bilimciler İçin R ile Veri Bilimi ve Veri Okur Yazarlığı Eğitimi&lt;/strong&gt; 7 gün toplam 15 bölümden oluşacak yoğun bir programa sahiptir. Eğitimin temel izlencesi aşağıdaki şekilde olacaktır:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Gün&lt;/th&gt;
+&lt;th&gt;Saat&lt;/th&gt;
+&lt;th&gt;İçerik&lt;/th&gt;
+&lt;th&gt;Eğitmen&lt;/th&gt;
+&lt;th&gt;Eğitmen Yardımcısı&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1.gün&lt;/td&gt;
+&lt;td&gt;10-12&lt;/td&gt;
+&lt;td&gt;Veri Bilimine Giriş&lt;/td&gt;
+&lt;td&gt;Doç. Dr. Hakan Mehmetcik&lt;/td&gt;
+&lt;td&gt;Bozkurt Toral&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1.gün&lt;/td&gt;
+&lt;td&gt;13-15&lt;/td&gt;
+&lt;td&gt;Veri Temelli Sosyal Bilimler ve Etik&lt;/td&gt;
+&lt;td&gt;Dr. Ögr. Üyesi İsmail Erkam Sula&lt;/td&gt;
+&lt;td&gt;Galip Yülksel&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2.gün&lt;/td&gt;
+&lt;td&gt;10-12&lt;/td&gt;
+&lt;td&gt;R ve Rstudio Giriş &lt;/td&gt;
+&lt;td&gt;Hasan Hakses&lt;/td&gt;
+&lt;td&gt;Bozkurt Toral&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2.gün&lt;/td&gt;
+&lt;td&gt;13-15&lt;/td&gt;
+&lt;td&gt;Veri kaynakları, türleri ve R ile veri çekme-okuma &lt;/td&gt;
+&lt;td&gt;Sercan Pekel&lt;/td&gt;
+&lt;td&gt;Galip Yülksel&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2.gün&lt;/td&gt;
+&lt;td&gt;15-17&lt;/td&gt;
+&lt;td&gt;R ile Programlama&lt;/td&gt;
+&lt;td&gt;Melih Kölük&lt;/td&gt;
+&lt;td&gt;Bozkurt Toral&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3.gün&lt;/td&gt;
+&lt;td&gt;10-12&lt;/td&gt;
+&lt;td&gt;R ile Veri Temizleme &lt;/td&gt;
+&lt;td&gt;Sercan Pekel&lt;/td&gt;
+&lt;td&gt;Galip Yülksel&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3.gün&lt;/td&gt;
+&lt;td&gt;13-15&lt;/td&gt;
+&lt;td&gt;R ile veri görselleştirme ggplot &lt;/td&gt;
+&lt;td&gt;Sercan  Pekel&lt;/td&gt;
+&lt;td&gt;Bozkurt Toral&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;4.gün&lt;/td&gt;
+&lt;td&gt;10-12&lt;/td&gt;
+&lt;td&gt;R ile Temel İstatistik&lt;/td&gt;
+&lt;td&gt;Doç. Dr. Hakan Mehmetcik&lt;/td&gt;
+&lt;td&gt;Galip Yülksel&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;4.gün&lt;/td&gt;
+&lt;td&gt;13-15&lt;/td&gt;
+&lt;td&gt;Rmarkdown, Git ve Github ile Yeniden Üretilebilir ve Tekrarlanabilir Araştırma&lt;/td&gt;
+&lt;td&gt;Doç. Dr. Hakan Mehmetcik&lt;/td&gt;
+&lt;td&gt;Bozkurt Toral&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5.gün&lt;/td&gt;
+&lt;td&gt;10-12&lt;/td&gt;
+&lt;td&gt;Proje 1: R ile Sosyal Medya Analizi&lt;/td&gt;
+&lt;td&gt;Melih Kölük&lt;/td&gt;
+&lt;td&gt;Galip Yülksel&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5.gün&lt;/td&gt;
+&lt;td&gt;13-15&lt;/td&gt;
+&lt;td&gt;Proje 2: R ile Netwok analizi&lt;/td&gt;
+&lt;td&gt;Melih Koluk&lt;/td&gt;
+&lt;td&gt;Bozkurt Toral&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;6.gün&lt;/td&gt;
+&lt;td&gt;10-12&lt;/td&gt;
+&lt;td&gt;Proje 3: R ile Bibliometrik analiz&lt;/td&gt;
+&lt;td&gt;Hasan Hakses&lt;/td&gt;
+&lt;td&gt;Galip Yülksel&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;6.gün&lt;/td&gt;
+&lt;td&gt;13-15&lt;/td&gt;
+&lt;td&gt;Proje 4: R ile Metin analizi&lt;/td&gt;
+&lt;td&gt;Hasan Hakses&lt;/td&gt;
+&lt;td&gt;Bozkurt Toral&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;7.gün&lt;/td&gt;
+&lt;td&gt;9-12&lt;/td&gt;
+&lt;td&gt;Sosyal Veri Bilimci olmak&lt;/td&gt;
+&lt;td&gt;Galip Yüksel&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;7.gün&lt;/td&gt;
+&lt;td&gt;13-15&lt;/td&gt;
+&lt;td&gt;Son notlar ve değerlendirme&lt;/td&gt;
+&lt;td&gt;Bozkurt Toral&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://sosyalveri.netlify.app/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sosyalveri.netlify.app/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://sosyalveri.netlify.app/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sosyalveri.netlify.app/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://sosyalveri.netlify.app/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sosyalveri.netlify.app/people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://sosyalveri.netlify.app/publication/preprint/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sosyalveri.netlify.app/publication/preprint/</guid>
+      <description>&lt;h3 id=&#34;kayıt&#34;&gt;Kayıt&lt;/h3&gt;
+&lt;p&gt;Ekli linkteki form Sosyal Bilimciler İçin R ile Veri Bilimi ve Veri Okur Yazarlığı eğitimine katılmak isteyen öğrencilerin tespiti amacıyla düzenlenmiştir. Cevaplarınız ile toplanan veriler, katılımcı tespiti harici herhangi bir amaçla kullanılmayacak, işlenmeyecek ve eğitime katkı sunan öğretim üyeleri dışında üçüncü şahıslarla herhangi bir şekilde paylaşılmayacaktır.&lt;/p&gt;
+&lt;p&gt;🔗 &lt;a href=&#34;https://forms.gle/KgBjaysQxw51vHdC9&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kayıt olmak için&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

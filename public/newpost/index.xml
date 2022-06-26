@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Newposts | Sosyal Bilimciler İçin R ile Veri Bilimi ve Veri Okur Yazarlığı Eğitimi</title>
+    <link>https://sosyalveri.netlify.app/newpost/</link>
+      <atom:link href="https://sosyalveri.netlify.app/newpost/index.xml" rel="self" type="application/rss+xml" />
+    <description>Newposts</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 26 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sosyalveri.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Newposts</title>
+      <link>https://sosyalveri.netlify.app/newpost/</link>
+    </image>
+    
+    <item>
+      <title>Ders İzlencesi</title>
+      <link>https://sosyalveri.netlify.app/newpost/ders-izlencesi/</link>
+      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://sosyalveri.netlify.app/newpost/ders-izlencesi/</guid>
+      <description>&lt;p&gt;Sosyal Bilimciler İçin R ile Veri Bilimi ve Veri Okur yazarlığı Eğitimi ders izlencesi&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sosyal Bilimciler İçin R ile Veri Bilimi ve Veri Okur Yazarlığı Eğitimi&lt;/strong&gt; 7 gün toplam 15 bölümden oluşacak yoğun bir programa sahiptir. Eğitimin temel izlencesi aşağıdaki şekilde olacaktır:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Gün&lt;/th&gt;
+&lt;th&gt;Saat&lt;/th&gt;
+&lt;th&gt;İçerik&lt;/th&gt;
+&lt;th&gt;Eğitmen&lt;/th&gt;
+&lt;th&gt;Eğitmen Yardımcısı&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1.gün&lt;/td&gt;
+&lt;td&gt;10-12&lt;/td&gt;
+&lt;td&gt;Veri Bilimine Giriş&lt;/td&gt;
+&lt;td&gt;Doç. Dr. Hakan Mehmetcik&lt;/td&gt;
+&lt;td&gt;Bozkurt Toral&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1.gün&lt;/td&gt;
+&lt;td&gt;13-15&lt;/td&gt;
+&lt;td&gt;Veri Temelli Sosyal Bilimler ve Etik&lt;/td&gt;
+&lt;td&gt;Dr. Ögr. Üyesi İsmail Erkam Sula&lt;/td&gt;
+&lt;td&gt;Galip Yülksel&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2.gün&lt;/td&gt;
+&lt;td&gt;10-12&lt;/td&gt;
+&lt;td&gt;R ve Rstudio Giriş &lt;/td&gt;
+&lt;td&gt;Hasan Hakses&lt;/td&gt;
+&lt;td&gt;Bozkurt Toral&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2.gün&lt;/td&gt;
+&lt;td&gt;13-15&lt;/td&gt;
+&lt;td&gt;Veri kaynakları, türleri ve R ile veri çekme-okuma &lt;/td&gt;
+&lt;td&gt;Sercan Pekel&lt;/td&gt;
+&lt;td&gt;Galip Yülksel&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2.gün&lt;/td&gt;
+&lt;td&gt;15-17&lt;/td&gt;
+&lt;td&gt;R ile Programlama&lt;/td&gt;
+&lt;td&gt;Melih Kölük&lt;/td&gt;
+&lt;td&gt;Bozkurt Toral&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3.gün&lt;/td&gt;
+&lt;td&gt;10-12&lt;/td&gt;
+&lt;td&gt;R ile Veri Temizleme &lt;/td&gt;
+&lt;td&gt;Sercan Pekel&lt;/td&gt;
+&lt;td&gt;Galip Yülksel&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3.gün&lt;/td&gt;
+&lt;td&gt;13-15&lt;/td&gt;
+&lt;td&gt;R ile veri görselleştirme ggplot &lt;/td&gt;
+&lt;td&gt;Sercan  Pekel&lt;/td&gt;
+&lt;td&gt;Bozkurt Toral&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;4.gün&lt;/td&gt;
+&lt;td&gt;10-12&lt;/td&gt;
+&lt;td&gt;R ile Temel İstatistik&lt;/td&gt;
+&lt;td&gt;Doç. Dr. Hakan Mehmetcik&lt;/td&gt;
+&lt;td&gt;Galip Yülksel&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;4.gün&lt;/td&gt;
+&lt;td&gt;13-15&lt;/td&gt;
+&lt;td&gt;Rmarkdown, Git ve Github ile Yeniden Üretilebilir ve Tekrarlanabilir Araştırma&lt;/td&gt;
+&lt;td&gt;Doç. Dr. Hakan Mehmetcik&lt;/td&gt;
+&lt;td&gt;Bozkurt Toral&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5.gün&lt;/td&gt;
+&lt;td&gt;10-12&lt;/td&gt;
+&lt;td&gt;Proje 1: R ile Sosyal Medya Analizi&lt;/td&gt;
+&lt;td&gt;Melih Kölük&lt;/td&gt;
+&lt;td&gt;Galip Yülksel&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5.gün&lt;/td&gt;
+&lt;td&gt;13-15&lt;/td&gt;
+&lt;td&gt;Proje 2: R ile Netwok analizi&lt;/td&gt;
+&lt;td&gt;Melih Koluk&lt;/td&gt;
+&lt;td&gt;Bozkurt Toral&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;6.gün&lt;/td&gt;
+&lt;td&gt;10-12&lt;/td&gt;
+&lt;td&gt;Proje 3: R ile Bibliometrik analiz&lt;/td&gt;
+&lt;td&gt;Hasan Hakses&lt;/td&gt;
+&lt;td&gt;Galip Yülksel&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;6.gün&lt;/td&gt;
+&lt;td&gt;13-15&lt;/td&gt;
+&lt;td&gt;Proje 4: R ile Metin analizi&lt;/td&gt;
+&lt;td&gt;Hasan Hakses&lt;/td&gt;
+&lt;td&gt;Bozkurt Toral&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;7.gün&lt;/td&gt;
+&lt;td&gt;9-12&lt;/td&gt;
+&lt;td&gt;Sosyal Veri Bilimci olmak&lt;/td&gt;
+&lt;td&gt;Galip Yüksel&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;7.gün&lt;/td&gt;
+&lt;td&gt;13-15&lt;/td&gt;
+&lt;td&gt;Son notlar ve değerlendirme&lt;/td&gt;
+&lt;td&gt;Bozkurt Toral&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+main:
+  - name: 
+    url: Proje
+    weight: 10
+  - name: İçerik
+    url: newpost
+    weight: 20
+  - name: Ekip
+    url: people
+    weight: 30
+  - name: Kurullar
+    url: kurullar
+    weight: 40
+  - name: Kayıt
+    url: kayit
+    weight: 50
+  - name: İletişim
+    url: contact
+    weight: 60

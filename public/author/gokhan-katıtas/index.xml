@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gökhan Katıtaş | Sosyal Bilimciler İçin R ile Veri Bilimi ve Veri Okur Yazarlığı Eğitimi</title>
+    <link>https://sosyalveri.netlify.app/author/gokhan-kat%C4%B1tas/</link>
+      <atom:link href="https://sosyalveri.netlify.app/author/gokhan-kat%C4%B1tas/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gökhan Katıtaş</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://sosyalveri.netlify.app/author/gokhan-kat%C4%B1tas/avatar_huc52f5059b48c3b0dd535c0c09f41f5bf_9516_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Gökhan Katıtaş</title>
+      <link>https://sosyalveri.netlify.app/author/gokhan-kat%C4%B1tas/</link>
+    </image>
+    
+  </channel>
+</rss>

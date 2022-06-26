@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://sosyalveri.netlify.app/sitemap.xml

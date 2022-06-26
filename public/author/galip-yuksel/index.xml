@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Galip Yüksel | Sosyal Bilimciler İçin R ile Veri Bilimi ve Veri Okur Yazarlığı Eğitimi</title>
+    <link>https://sosyalveri.netlify.app/author/galip-yuksel/</link>
+      <atom:link href="https://sosyalveri.netlify.app/author/galip-yuksel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Galip Yüksel</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://sosyalveri.netlify.app/author/galip-yuksel/avatar_hu14f3231c8d2e699301d9c31e26c2084d_6851_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Galip Yüksel</title>
+      <link>https://sosyalveri.netlify.app/author/galip-yuksel/</link>
+    </image>
+    
+  </channel>
+</rss>
