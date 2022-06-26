@@ -22,3 +22,5 @@ design:
   view: 3
   columns: '1'
 ---
+# Etkinlik Gün ve Saati
+Eğitimimiz **13-20 Kasım 2022** tarihleri arasında **ZOOM** platformu üzerinden online olarak gerçekleştirilecektir.   
