@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {2022} Me. '
+    notice: '© {2022} @HakanMehmetcik. '
     license:
       enable: true
       allow_derivatives: false
@@ -70,7 +70,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/HakanMehmetcik/sosyalveri.git'
     content_dir: content
     branch: main
   avatar:
