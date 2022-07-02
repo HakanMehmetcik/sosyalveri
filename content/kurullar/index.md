@@ -19,12 +19,12 @@ projects: []
 
 # Etkinlik Düzenleme Kurulu
 
-![](images/Picture1.png)
+![](images/Screen%20Shot%202022-07-02%20at%2011.27.18%20AM.png)
 
 # Etkinlik Eğitmenleri
 
-![](images/Picture2.png)
+![](images/Screen%20Shot%202022-07-02%20at%2011.30.16%20AM.png)
 
 # Etkinlik Eğitmen Yardımcıları ve Sekreteryası
 
-![](images/Screen%20Shot%202022-06-26%20at%204.18.55%20PM.png)
+![](images/Screen%20Shot%202022-07-02%20at%2011.30.27%20AM.png)
